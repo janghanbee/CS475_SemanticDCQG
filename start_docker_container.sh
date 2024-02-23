@@ -1,0 +1,1 @@
+docker run -it -v data_directory:/home/Datasets -v data_directory/output:/home/FQG/output acs-qg-docker
