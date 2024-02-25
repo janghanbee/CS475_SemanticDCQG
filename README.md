@@ -1,7 +1,7 @@
 # CS475_SemanticDCQG
 
 CS475 Machine Learning for Natural Language Processing Team 5 \
-[CS475_NLP_Final_Report.pdf](CS475_NLP_Final_Report.pdf)
+[Graph-based Semantic Difficulty Controllable Question Generation](CS475_NLP_Final_Report.pdf)
 
 ## Reference Paper
 [Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting (ACL-IJCNLP 2021)](https://arxiv.org/abs/2105.11698)
